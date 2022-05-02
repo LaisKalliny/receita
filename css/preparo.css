@@ -1,3 +1,8 @@
+body{
+  background: #FFF1D6;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
 #botao{
   line-height: 2;
   color: #fff;

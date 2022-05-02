@@ -1,6 +1,6 @@
 #bolo{
-    width: 600px;
-    height: 400px;
+    width: 500px;
+    height: 300px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -9,5 +9,22 @@
     line-height: 2;
     color: #fff;
     border-radius: 10px;
-    background-color: rgb(33, 18, 165);
+    background-color: #442061;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 20px;;
+}
+
+body{
+    background: #FFF1D6;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
+#titulo{
+    display:inline-block;
+    color: #442061;
 }
