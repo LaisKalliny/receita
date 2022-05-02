@@ -1,3 +1,10 @@
 li{
   color:blueviolet;
 }
+
+#botao{
+  line-height: 2;
+  color: #fff;
+  border-radius: 10px;
+  background-color: rgb(33, 18, 165);
+}
